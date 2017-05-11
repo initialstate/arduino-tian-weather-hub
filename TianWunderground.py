@@ -8,9 +8,9 @@ from ISStreamer.Streamer import Streamer
 # --------- User Settings ---------
 STATE = "CA"
 CITY = "San_Francisco"
-WUNDERGROUND_API_KEY = "tianweatherhub"
+WUNDERGROUND_API_KEY = "PLACE YOUR WUNDERGROUND API KEY HERE"
 BUCKET_NAME = ":partly_sunny: " + CITY + " Weather"
-BUCKET_KEY = "wu1"
+BUCKET_KEY = "tianweatherhub"
 ACCESS_KEY = "PLACE YOUR INITIAL STATE ACCESS KEY HERE"
 MINUTES_BETWEEN_READS = 15
 METRIC_UNITS = False
